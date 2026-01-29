@@ -1,6 +1,6 @@
 # Unity Tetris Game Project (Unity 俄罗斯方块项目)
 
-<img src="./Assets/Readme/home.png" alt="home" style="width:500px;" align="left"/>
+<img src="./Assets/Readme/home.png" alt="home" style="width:400px;"/>
 
 ## 📖 项目简介 (Introduction)
 
@@ -18,7 +18,7 @@
 
 - **辅助功能**：支持“幽灵方块”（Ghost Piece）预览落点，支持方块暂存（Hold）功能。
 
-  <img src="./Assets/Readme/classic.png" alt="classic" style="width:500px;" align="left"/>
+  <img src="./Assets/Readme/Classic.png" alt="classic" style="width:400px;"/>
 
 ### 2. 双人对战模式 (2 Player Mode)
 
@@ -26,7 +26,7 @@
 
 - **攻击机制**：当一名玩家一次性消除多行时，会向对手发送“垃圾行”（Attack Lines），增加对手的生存压力。
 - **胜负判定**：坚持到最后的玩家获胜。
-- <img src="./Assets/Readme/2player.png" alt="2player" style="width:500px;" align="left"/>
+- <img src="./Assets/Readme/2player.png" alt="2player" style="width:400px;"/>
 
 ### 3. 趣味模式 (Fun Mode)
 
@@ -34,7 +34,7 @@
 
 - **特殊机制**：引入了 **Enemy Block (敌人方块)** 和 **Shooting (射击)** 机制。玩家可能需要消除特定的障碍物或应对干扰。
 - **动态变化**：包含更多不可预测的随机元素。
-- *<img src="./Assets/Readme/funplay.png" alt="funplay" style="width:500px;" align="left"/>*
+- *<img src="./Assets/Readme/funplay.png" alt="funplay" style="width:400px;"/>*
 
 
 
